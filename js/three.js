@@ -1,4 +1,4 @@
-import * as THREE from "three";
+import * as THREE from "https://cdn.skypack.dev/three@0.144.0";
 
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera(
